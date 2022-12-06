@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any front-end projects using react**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
