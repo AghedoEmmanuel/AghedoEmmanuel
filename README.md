@@ -3,7 +3,7 @@
 <h3 align="center">A frontend developer</h3>
 
 
-- 🌱 I’m currently learning **Front-end web development using React**
+- 🌱 I’m currently learning **Front-end web development using React and python**
 
 - 👯 I’m looking to collaborate on **any front-end projects using react**
 
