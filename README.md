@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Aghedo Emmanuel</h1>
 <h3 align="center">A frontend developer</h3>
 
